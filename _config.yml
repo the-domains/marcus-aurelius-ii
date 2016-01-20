@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8544576
+  brandStrength: 0.4713013
+  lightness: 0.9092373
+  rhythmicContrast: 0.3384365
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.2422127
+name: Marcus Aurelius II
