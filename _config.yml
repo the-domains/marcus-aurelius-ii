@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.09291081
   brandStrength: 0
-  lightness: 0.9779807
+  rhythmicContrast: 0.2432868
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  rhythmicContrast: 0.2432868
+  lightness: 0.9779807
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Marcus Aurelius II
 favicon: null
+name: Marcus Aurelius II
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.2422127
-layout_spectrum: 0.74341
+layout_spectrum: 0.03920516
