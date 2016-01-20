@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Well hello and welcome to my life! This i what happened in my small corner of earth today:]]></title>
+        <description><![CDATA[Well hello and welcome to my life! This i what happened in my small corner of earth today:]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Jan 2016 19:37:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9cc6d3c-a263-48ee-87d1-9a5b84d32a44.jpg">]]></description>
+            <link>undefined7677656c-b4d7-49ee-ad4b-b65f7e483b30/index.html</link>
+            <guid isPermaLink="false">7677656c-b4d7-49ee-ad4b-b65f7e483b30</guid>
+            <pubDate>Wed, 20 Jan 2016 19:37:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
