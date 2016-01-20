@@ -1,14 +1,29 @@
+name: Marcus Aurelius II
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.2422127
+title: "What's up in life, the universe and everything"
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8544576
-  brandStrength: 0.4713013
-  lightness: 0.9092373
-  rhythmicContrast: 0.3384365
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.2422127
-name: Marcus Aurelius II
+  brandStrength: 0.4713013
+  lightness: 0.9092373
+  saturation: 0.8544576
+  rhythmicContrast: 0.3384365
+purpose: []
